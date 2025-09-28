@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```md
 ![Banner](./github-banner.png)
 
 # 👋 Hi, I'm Yash Rastogi  
@@ -97,5 +96,4 @@ Here are some ideas to get you started:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](#)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=About.me&logoColor=white)](#)  
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](#)  
-```
 
