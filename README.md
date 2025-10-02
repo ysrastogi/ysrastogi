@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![Banner](./github-banner.png)
-
-# 👋 Hi, I'm Yash Rastogi  
-
 I’m an engineer who loves building meaningful AI systems — tools and workflows that don’t just work, but create real impact. From generative AI applications to high-performance data systems, I focus on engineering solutions that are practical, scalable, and production-ready. 
 
 ---
