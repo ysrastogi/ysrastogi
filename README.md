@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](./github-banner.svg)
+![Banner](./github-banner.png)
 
 # 👋 Hi, I'm Yash Rastogi  
 
